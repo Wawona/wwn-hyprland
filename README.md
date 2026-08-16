@@ -21,6 +21,6 @@ them (see Wawona `docs/2026-wlroots-compat.md`).
 3. aquamarine/wlroots: nested Wayland backend only.
 4. Replace `dependencies/hyprland/stub.nix` per platform; expose
    `hyprland-{ios,macos,android}`; register in Wawona.
-5. `wwn-apt` lists `hyprland` `status: planned` → flip to `approved` post-review.
+5. Port plan lists `hyprland` `status: planned` → flip to `approved` post-review.
 
 Convention: [wwn-* porting convention](https://github.com/Wawona/Wawona/blob/main/docs/2026-wwn-porting-convention.md).
